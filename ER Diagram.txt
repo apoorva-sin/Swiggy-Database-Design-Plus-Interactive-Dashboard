@@ -1,0 +1,48 @@
+   +-------------+   +-----------------+
+   |   Users     |   |   Restaurant    |
+   +-------------+   +-----------------+
+   | id (PK)     |   | id (PK)         |
+   | firstname   |   | name            |
+   | lastname    |   | address         |
+   | email       |   | city            |
+   | join_date   |   | primary_cuisine |
+   | last_login  |   | secondary_cuisine|
+   +-------------+   | opening_time    |
+                     | closing_time    |
+                     | rating          |
+                     | cost_for_two    |
+                     +-----------------+
+                           |
+                           |
+                           |
+                           |
+                           |
+                           |
+   +-------------+   +-----------------+
+   | Delivery    |   |  Order Details  |
+   +-------------+   +-----------------+
+   | id (PK)     |   | id (PK)         |
+   | firstname   |   | order_timestamp |
+   | lastname    |   | cost            |
+   | phone_number|   | payment_method  |
+   | vehicle_num-|   | delivery_person_|
+   | ber         |   | id (FK)         |
+   | current_loc-|   +-----------------+
+   | ation       |
+   +-------------+
+         |
+         |
+         |
+         |
+         |
+         |
+   +-------------+   +-----------------+
+   | Menu Items  |   | Orders Placed By|
+   +-------------+   +-----------------+
+   | id (PK)     |   | orderid         |
+   | item_name   |   | userid (FK)     |
+   | category    |   | restaurantid (FK)|
+   | price       |   | orderid (FK)    |
+   | description |   +-----------------+
+   | restaurant_id|
+   +-------------+
