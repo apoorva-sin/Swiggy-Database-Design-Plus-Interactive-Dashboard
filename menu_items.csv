@@ -1,0 +1,46 @@
+"id","item_name","category","price","description","restaurant_id"
+1,Butter Chicken,Main Course,350.00,Tender pieces of chicken cooked in a rich buttery tomato sauce.,4
+2,Masala Dosa,South Indian,80.00,A crispy fermented rice and lentil crepe served with potato masala.,5
+3,Paneer Tikka,Appetizer,250.00,Cottage cheese cubes marinated and grilled to perfection.,2
+4,Chicken Biryani,Biryani,300.00,Fragrant basmati rice cooked with succulent pieces of chicken and aromatic spices.,1
+5,Chole Bhature,North Indian,120.00,Deep-fried bread served with spicy chickpea curry.,6
+6,Prawn Curry,Seafood,400.00,Juicy prawns cooked in a coconut milk based curry.,6
+7,Gulab Jamun,Dessert,80.00,Deep-fried milk solids soaked in sugar syrup.,6
+8,Tandoori Roti,Bread,30.00,Whole wheat bread cooked in a tandoor.,2
+9,Chana Masala,Main Course,180.00,Spicy chickpea curry served with rice or bread.,1
+10,Pav Bhaji,Street Food,120.00,Mixed vegetable curry served with buttered buns.,3
+11,Fish Curry,Seafood,350.00,Fish cooked in a tangy and spicy coconut milk-based curry.,6
+12,Dahi Puri,Appetizer,100.00,"Crispy shells filled with yogurt, chutney, and spices.",5
+13,Chicken Tikka Masala,Main Course,320.00,Chicken tikka served in a creamy tomato sauce.,4
+14,Samosa,Appetizer,60.00,Deep-fried pastry filled with spiced potatoes.,3
+15,Rasgulla,Dessert,70.00,Spongy and sweet cottage cheese balls soaked in sugar syrup.,6
+16,Paneer Butter Masala,Main Course,280.00,Paneer cubes cooked in a rich tomato and butter gravy.,1
+17,Pani Puri,Street Food,80.00,Hollow crispy balls filled with spicy tangy water and potatoes.,5
+18,Dal Makhani,Main Course,200.00,Creamy black lentils slow-cooked with spices.,2
+19,Aloo Paratha,Bread,90.00,Whole wheat bread stuffed with spiced potatoes and cooked with butter.,3
+20,Gajar Halwa,Dessert,120.00,"Delicious Indian dessert made from carrots, milk, and sugar.",6
+21,Butter Naan,Bread,40.00,Soft and fluffy leavened bread cooked in a tandoor.,1
+22,Chilli Chicken,Appetizer,250.00,Spicy and tangy fried chicken.,4
+23,Masala Tea,Beverage,40.00,Indian spiced tea with milk and aromatic spices.,2
+24,Biriyani,Biryani,280.00,Flavorful rice dish cooked with aromatic spices and choice of meat.,3
+25,Schezwan Fried Rice,Main Course,220.00,Spicy Indo-Chinese fried rice with vegetables.,4
+26,Vada Pav,Street Food,40.00,Spicy potato fritter in a bun.,7
+27,Chole Bhature,North Indian,130.00,Deep-fried bread served with spicy chickpea curry.,7
+28,Rajma Chawal,Main Course,160.00,Red kidney beans curry served with rice.,7
+29,Mysore Masala Dosa,South Indian,90.00,Crispy dosa with spicy potato filling.,8
+30,Bisi Bele Bath,South Indian,120.00,Spicy and tangy rice dish with lentils and vegetables.,8
+31,Malai Kofta,Main Course,220.00,Fried vegetable balls in a creamy tomato-based gravy.,9
+32,Keema Naan,Bread,70.00,Naan stuffed with minced meat.,9
+33,Chicken Shawarma,Appetizer,180.00,Marinated and grilled chicken wrapped in flatbread.,10
+34,Hyderabadi Chicken Biryani,Biryani,300.00,Fragrant rice with succulent chicken pieces.,10
+35,Poha,Breakfast,60.00,Flattened rice with spices and peanuts.,11
+36,Misal Pav,Street Food,90.00,Spicy curry with pav (bread rolls).,11
+37,Kolkata Biryani,Biryani,250.00,Aromatic rice with flavorful spices and meat.,12
+38,Hakka Noodles,Main Course,160.00,Stir-fried noodles with vegetables.,12
+39,Paneer Paratha,Bread,80.00,Whole wheat bread stuffed with paneer and spices.,12
+40,Gobi Manchurian,Appetizer,120.00,Fried cauliflower florets in a spicy sauce.,7
+41,Pav Bhaji,Street Food,100.00,Mixed vegetable curry served with buttered buns.,8
+42,Veg Biryani,Biryani,180.00,Fragrant rice with assorted vegetables.,9
+43,Samosa Chaat,Appetizer,80.00,Crushed samosas topped with chutneys and yogurt.,10
+44,Butter Masala Dosa,South Indian,110.00,Dosa with a rich buttery potato filling.,11
+45,Ras Malai,Dessert,70.00,Creamy cheese dumplings in sweet milk.,12
